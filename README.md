@@ -14,15 +14,22 @@
 ## Results
 ### Stock Performance in 2017
 
-- Of the 12 stocks that were recorded and analyzed during this project, 11 of them returned positive values during 2017, meaning the stock was worth more at the end of the year than it was at the beginning of the year. 
+- Of the 12 stocks that were recorded and analyzed during this project, 11 of them returned a positive value during 2017, meaning the stock was worth more at the end of the year than it was at the beginning of the year. 
 - "DQ" and "SEDG" were the two stocks that increased in value the most over the time frame. 
 - "TERP" was the sole stock that lost value during the year 2017. 
+- The return column is color coded to easily show the users if the stock made or lost money during the year.
 
 ![image](https://user-images.githubusercontent.com/104038813/175045752-5bada99f-e73c-4ba5-9d94-3a2c9448d0e0.png)
 
  
-
 ### Stock Performance in 2018
+- Of the 12 stocks that were recorded and analyzed during this project, 10 of them returned a negative value during 2018, meaning those stocks lost money from the beginning of the year to the end of the year. 
+- "ENPH" and "RUN" were the two stocks were gained value, showing up as green in the image below. 
+- "DQ", which was the initial stock my customer was interested in, lost the most amount of money out of all 12 stocks in 2018. 
+- The total daily volume shows the number of stocks that were traded during the entire year. 
+
+![image](https://user-images.githubusercontent.com/104038813/175047059-2dfa748d-d320-4ade-ae11-6050e0c3c65f.png)
+
 
 
 ### Execution Times
