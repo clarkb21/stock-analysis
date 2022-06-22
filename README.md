@@ -13,6 +13,13 @@
 
 ## Results
 ### Stock Performance in 2017
+
+- Of the 12 stocks that were recorded and analyzed during this project, 11 of them returned positive values during 2017, meaning the stock was worth more at the end of the year than it was at the beginning of the year. 
+- "DQ" and "SEDG" were the two stocks that increased in value the most over the time frame. 
+- "TERP" was the sole stock that lost value during the year 2017. 
+
+![image](https://user-images.githubusercontent.com/104038813/175045752-5bada99f-e73c-4ba5-9d94-3a2c9448d0e0.png)
+
  
 
 ### Stock Performance in 2018
