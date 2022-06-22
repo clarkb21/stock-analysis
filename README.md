@@ -60,6 +60,8 @@
 
  ![VBA_Challenge_2018](https://user-images.githubusercontent.com/104038813/175049654-2e8f3955-0a49-451b-a383-3536da46cd1f.png)
 
-
+## Summary
+- Since the original design of the VBA code was only to analyze the 12 stocks, refactoring the code to make it more efficient for larger data sets is beneficial. The run times for the original code are significantly slower than the refactored code. 
+- The refactored code is still organized using comments in the VBA script, but refactoring can be challenging when having to go back through older code and trying to create something new that gives the same results.  
 
 
