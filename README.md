@@ -55,7 +55,11 @@
 
  
  #### Refactored Code
-   
+ 
+ ![VBA_Challenge_2017](https://user-images.githubusercontent.com/104038813/175049641-5ae69ead-feab-4d53-86f9-3aa0236e1bb1.png)
+
+ ![VBA_Challenge_2018](https://user-images.githubusercontent.com/104038813/175049654-2e8f3955-0a49-451b-a383-3536da46cd1f.png)
+
 
 
 
