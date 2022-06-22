@@ -61,7 +61,17 @@
  ![VBA_Challenge_2018](https://user-images.githubusercontent.com/104038813/175049654-2e8f3955-0a49-451b-a383-3536da46cd1f.png)
 
 ## Summary
-- Since the original design of the VBA code was only to analyze the 12 stocks, refactoring the code to make it more efficient for larger data sets is beneficial. The run times for the original code are significantly slower than the refactored code. 
-- The refactored code is still organized using comments in the VBA script, but refactoring can be challenging when having to go back through older code and trying to create something new that gives the same results.  
+- Using VBA and Excel, I was able to help my custormer make an informed decision when determining which stocks to purchase for his parents. 
+- Using features in Excel, I was able to make the code user friendly so anyone could repeat the analysis for other time periods and with different stocks. 
 
+### Advantages of Refactoring
+- Since the original design of the VBA code was only to analyze the 12 stocks, refactoring the code to make it more efficient for larger data sets is beneficial. 
+- The run times for the original code are significantly slower than the refactored code. 
+- Refactoring the code can make it easier to read and edit.   
 
+### Disadvantages of Refactoring
+- The refactored code is still organized using comments in the VBA script, but refactoring can be challenging when having to go back through older code and trying to create something new that gives the same results.
+- Refactoring code can be time consuming. 
+
+## References 
+- “Module 2: VBA of Wall Street.” https://courses.bootcampspot.com/courses/2508/modules, Trilogy Education Services, 2000. Web 22 Jun 2022.
