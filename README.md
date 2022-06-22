@@ -9,7 +9,16 @@
 - Using VBA in Excel, the goal was to determine stock performance for specific green stocks during the years 2017 and 2018. 
 - By applying what I have learned through VBA, I was able to create an excel spreadsheet that displayed the Ticker name, total daily volume, and return for each stock that I was analyzing. 
 - I also created buttons in the workbook to allow easier access for all users, not just those who understand VBA code.
+
+![image](https://user-images.githubusercontent.com/104038813/175048808-353c4606-533c-4441-845b-01f7e494821c.png)
+
 - Finally, I refactored the code to allow it to run quicker and more efficient using one for loop instead of multiple nested loops. 
+
+![image](https://user-images.githubusercontent.com/104038813/175049065-64f9bac0-d67c-471a-8db2-3bb66de3d376.png)
+
+![image](https://user-images.githubusercontent.com/104038813/175049171-a269ce9d-a9ec-4437-87c1-d9b6e01df468.png)
+
+
 
 ## Results
 ### Stock Performance in 2017
@@ -31,10 +40,19 @@
 ![image](https://user-images.githubusercontent.com/104038813/175047059-2dfa748d-d320-4ade-ae11-6050e0c3c65f.png)
 
 
-
 ### Execution Times
+- Originally, the code created in VBA for this project was designed solely for the 12 stocks that were being analyzed.
+- Nested for loops were created to allow VBA to run through all the tickers and then loops through all the rows of data to find that specific ticker and return the total volume. 
+- By refactoring the code, we created output arrays to allow us to only loop through the data once, making the code run much more efficiently. 
  
  #### Original Code
+ 
+ ![image](https://user-images.githubusercontent.com/104038813/175048534-e7c03a3a-2a28-4fa2-a59f-8ac34bfa436f.png)
+ 
+ ![image](https://user-images.githubusercontent.com/104038813/175048668-c395faeb-7c04-4eb0-9194-62b454452b08.png)
+
+
+
  
  #### Refactored Code
    
